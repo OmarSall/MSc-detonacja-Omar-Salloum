@@ -46,7 +46,7 @@ W folderze MScOS powinno pojawić się zdjęcie Border1GIMP.jpg
 * `-c` oznacza zdjęcie, które będzie wykorzystane do kalibracji
 * `-i` oznacza zdjęcie, które wyeksportowano z programu GIMP
 
-# Kalibracja
+## Kalibracja
 
 ![Reference Image](/screenshots/screenshot1.jpg)
 ![Reference Image](/screenshots/screenshot2.jpg)
